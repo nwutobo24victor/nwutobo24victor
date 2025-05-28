@@ -19,9 +19,11 @@
 
 - 💼 Full-Stack Developer at [Ichie Groups](https://ichie.io/)
 - 🌍 Founder at [DragsDev](https://dragsdev.com.ng/)
-- 🔨 Builder of **KJSG Cabs**, **Anchor Guard Services**, **Primo-vent Inc.**, and more
-- ⚙️ Passionate about **backend systems**, **automation**, and **secure digital platforms**
-- 📚 Currently mastering **real-time apps with Node.js** and **advanced Laravel architecture**
+- 🔨 Built and deployed:
+  - [NAPEC – National Association of Private Employers of Construction](https://www.napec.ing/)
+  - [Man O' War Nigeria](https://www.manowarng.org/)
+  - [Anchor Guard Services](https://anchorsecurity.ng/) *(in development)*
+- ⚙️ Focused on building secure, fast, and scalable web applications
 - 🤝 Open to **collaboration**, **freelance**, and **remote roles**
 
 ---
@@ -55,7 +57,6 @@
 ### 🧰 Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ---
 

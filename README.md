@@ -1,6 +1,3 @@
-<!-- Optional: Add a personal banner if you have one -->
-<!-- ![Banner](https://your-banner-image-link) -->
-
 <h1 align="center">👋 Hi, I'm Nwutobo Victor Charles</h1>
 <h3 align="center">Full-Stack Web Developer | PHP | Laravel | Node.js | MySQL</h3>
 
@@ -20,11 +17,12 @@
 
 ## 👨🏾‍💻 About Me
 
-- 💼 Full-stack developer at [DragsDev](https://dragsdev.com.ng/)
-- 🔨 Building platforms like **KJSG Cabs**, **Anchor Guard Services**, and **Primo-vent Inc.**
-- 🚀 Passionate about **automation**, **security systems**, and **scalable digital platforms**
-- 📚 Currently learning **advanced Laravel patterns** and **real-time applications with Node.js**
-- 🤝 Open to **freelance**, **contract**, and **collaboration** opportunities
+- 💼 Full-Stack Developer at [Ichie Groups](https://ichie.io/)
+- 🌍 Founder at [DragsDev](https://dragsdev.com.ng/)
+- 🔨 Builder of **KJSG Cabs**, **Anchor Guard Services**, **Primo-vent Inc.**, and more
+- ⚙️ Passionate about **backend systems**, **automation**, and **secure digital platforms**
+- 📚 Currently mastering **real-time apps with Node.js** and **advanced Laravel architecture**
+- 🤝 Open to **collaboration**, **freelance**, and **remote roles**
 
 ---
 
@@ -45,9 +43,11 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-### 🖌️ UI & Design
+### 🪟 Libraries & Framework
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+### 🖌️ UI & Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-00B140?style=flat-square&logo=coreldraw&logoColor=white)
@@ -73,8 +73,8 @@
 - 🌐 Portfolio: [nwutobovictorcharles.dragsdev.com.ng](https://nwutobovictorcharles.dragsdev.com.ng/)
 - 📱 WhatsApp: [wa.me/+2348089179206](https://wa.me/+2348089179206)
 - 📧 Email: available on request
-- 💼 Website: [dragsdev.com.ng](https://dragsdev.com.ng/)
+- 💼 Company: [dragsdev.com.ng](https://dragsdev.com.ng/)
 
 ---
 
-> "Building digital solutions that solve real-world problems — one line of code at a time."
+> "I build scalable and secure digital systems that solve real-world problems — one line of code at a time."

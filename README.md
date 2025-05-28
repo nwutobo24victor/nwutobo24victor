@@ -1,3 +1,5 @@
+![Banner](https://nwutobovictorcharles.dragsdev.com.ng/images/banner.png)
+
 <h1 align="center">👋 Hi, I'm Nwutobo Victor Charles</h1>
 <h3 align="center">Full-Stack Web Developer | PHP | Laravel | Node.js | MySQL</h3>
 
@@ -20,7 +22,7 @@
 - 💼 Full-Stack Developer at [Ichie Groups](https://ichie.io/)
 - 🌍 Founder at [DragsDev](https://dragsdev.com.ng/)
 - 🔨 Built and deployed:
-  - [NAPEC – National Association of Private Employers of Construction](https://www.napec.ing/)
+  - [NAPEC – Napec Marshal Corp](https://www.napec.ing/)
   - [Man O' War Nigeria](https://www.manowarng.org/)
   - [Anchor Guard Services](https://anchorsecurity.ng/) *(in development)*
 - ⚙️ Focused on building secure, fast, and scalable web applications

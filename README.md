@@ -75,7 +75,7 @@
 
 - 🌐 Portfolio: [nwutobovictorcharles.dragsdev.com.ng](https://nwutobovictorcharles.dragsdev.com.ng/)
 - 📱 WhatsApp: [wa.me/+2348089179206](https://wa.me/+2348089179206)
-- 📧 Email: available on request
+- 📧 Email: [nwutobo24victor.charles@gmail.com
 - 💼 Company: [dragsdev.com.ng](https://dragsdev.com.ng/)
 
 ---
